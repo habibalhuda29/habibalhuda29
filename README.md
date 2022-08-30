@@ -15,11 +15,8 @@
 
 ### Top Repositories 📚
 
-<a href="https://github.com/habibalhuda29/unpam-file">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=habibalhuda29&repo=unpam-file&theme=dark" />
-</a>
-<a href="https://github.com/habibalhuda29/habibalhuda29.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=habibalhuda29&repo=habibalhuda29.github.io&theme=dark" />
+<a href="https://github.com/habibalhuda29/habib-alhuda-abdullah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=habibalhuda29&repo=habib-alhuda-abdullah&theme=dark" />
 </a>
 
 <hr>

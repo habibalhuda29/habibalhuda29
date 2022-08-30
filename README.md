@@ -1,5 +1,5 @@
 # Halo semua, perkenalkan nama saya Habib Alhuda Abdullah！ 👋
-<hr>
+
 ### Github Stats 📈
 
 <a href="https://github-readme-stats.vercel.app/api?username=habibalhuda29&show_icons=true&include_all_commits=true&theme=dark">

@@ -36,6 +36,11 @@
         <h4>Last Friday Night (T.G.I.F) - Katy Perry</h4>
         <h4>Treasure - Bruno Mars</h4>
         <h4>Until I Found You - Stephen Sanchez</h4>
+        <h4>Inikah Jatuh Cinta - Amanda Manopo</h4>
+        <h4>Biar Mantan Tau - 3 Composers</h4>
+        <h4>Rasa Ini - Vierra</h4>
+        <h4>Sanctuary - Joji</h4>
+        <h4>SLOW DANCING IN THE DARK - Joji</h4>
       </td>
     </tr>
   </tbody>

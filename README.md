@@ -1,5 +1,5 @@
 # Halo semua, perkenalkan nama saya Habib Alhuda Abdullah！ 👋
-
+<hr>
 ### Github Stats 📈
 
 <a href="https://github-readme-stats.vercel.app/api?username=habibalhuda29&show_icons=true&include_all_commits=true&theme=dark">
@@ -47,7 +47,7 @@
 </table> 
 
 <hr>
-Design by <a href="https://github.com/hako-975">hako-975</a>
+
 
 <a href="https://twitter.com/hauscoding">
   <img align="right" alt="Haus Coding | Twitter" width="32px" src="icon/twitter.png" />
